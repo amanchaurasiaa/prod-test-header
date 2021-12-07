@@ -6,7 +6,7 @@ module.exports =(_, argv) =>  ({
   output: {
     publicPath: argv.mode == "development"
     ? "http://localhost:8080/"
-    :"https://vercel.com/amanchaurasiaa/prod-test-header",
+    :"prod-test-header-5x1p5uuf7-amanchaurasiaa.vercel.app",
   },
 
   resolve: {
