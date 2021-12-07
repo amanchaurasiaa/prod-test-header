@@ -5,8 +5,8 @@ export default () => (
     style={{
         padding: "1em",
         margin: "1em",
-        background: "lightblue",
-        color:"white",
+        background: "yellow",
+        color:"black",
         fontWeight:"bold",
         fontSize:"20px"
     }}
