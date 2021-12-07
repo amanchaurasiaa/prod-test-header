@@ -6,7 +6,7 @@ import "./index.css";
 const App = () => (
     <div>
         <Header />
-        <div>Hi there, I'm React from Webpack 5.</div>
+        <div>Hi there, I'm Host App from Webpack 5.</div>
     </div>
 )
 
