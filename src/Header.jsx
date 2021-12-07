@@ -11,6 +11,6 @@ export default () => (
         fontSize:"20px"
     }}
     >
-        Header 2.0
+        Header 1.0
     </div>
 );
