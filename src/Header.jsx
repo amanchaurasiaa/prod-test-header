@@ -5,12 +5,12 @@ export default () => (
     style={{
         padding: "1em",
         margin: "1em",
-        background: "yellow",
-        color:"black",
+        background: "lightblue",
+        color:"white",
         fontWeight:"bold",
         fontSize:"20px"
     }}
     >
-        Header 1.0
+        Header 2.0
     </div>
 );
